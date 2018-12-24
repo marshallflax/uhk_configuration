@@ -22,7 +22,7 @@
     {
       "isDefault": false,
       "abbreviation": "QW6",
-      "name": "Colemak for Mac",
+      "name": "QWERTY 6",
       "description": "Colemak is based on QWERTY, but it places the most frequent letters under the strongest fingers. This is the Mac version.",
       "layers": [
         {
@@ -757,7 +757,7 @@
                 null,
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QWR"
+                  "keymapAbbreviation": "QW1"
                 },
                 {
                   "keyActionType": "switchKeymap",
@@ -925,7 +925,7 @@
                 null,
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QWR"
+                  "keymapAbbreviation": "QW1"
                 },
                 {
                   "keyActionType": "switchKeymap",
@@ -1007,7 +1007,7 @@
     {
       "isDefault": false,
       "abbreviation": "QW3",
-      "name": "Colemak for PC",
+      "name": "QWERTY 3",
       "description": "Colemak is based on QWERTY, but it places the most frequent letters under the strongest fingers. This is the PC version.\n",
       "layers": [
         {
@@ -1751,7 +1751,7 @@
                 null,
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QWR"
+                  "keymapAbbreviation": "QW1"
                 },
                 {
                   "keyActionType": "switchKeymap",
@@ -1919,7 +1919,7 @@
                 null,
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QWR"
+                  "keymapAbbreviation": "QW1"
                 },
                 {
                   "keyActionType": "switchKeymap",
@@ -2001,7 +2001,7 @@
     {
       "isDefault": false,
       "abbreviation": "QW5",
-      "name": "Dvorak for Mac",
+      "name": "QWERTY 5",
       "description": "The Dvorak keyboard layout was designed with the goal of maximizing typing efficiency. This is the Mac version.",
       "layers": [
         {
@@ -2736,7 +2736,7 @@
                 null,
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QWR"
+                  "keymapAbbreviation": "QW1"
                 },
                 {
                   "keyActionType": "switchKeymap",
@@ -2834,7 +2834,7 @@
                 null,
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QWR"
+                  "keymapAbbreviation": "QW1"
                 },
                 {
                   "keyActionType": "switchKeymap",
@@ -2983,7 +2983,7 @@
     {
       "isDefault": false,
       "abbreviation": "QW2",
-      "name": "Dvorak for PC",
+      "name": "QWERTY 2",
       "description": "The Dvorak keyboard layout was designed with the goal of maximizing typing efficiency. This is the PC version.",
       "layers": [
         {
@@ -3727,7 +3727,7 @@
                 null,
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QWR"
+                  "keymapAbbreviation": "QW1"
                 },
                 null,
                 {
@@ -3825,7 +3825,7 @@
                 null,
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QWR"
+                  "keymapAbbreviation": "QW1"
                 },
                 {
                   "keyActionType": "switchKeymap",
@@ -4709,7 +4709,7 @@
                 null,
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QWR"
+                  "keymapAbbreviation": "QW1"
                 },
                 {
                   "keyActionType": "switchKeymap",
@@ -4949,7 +4949,7 @@
     },
     {
       "isDefault": true,
-      "abbreviation": "QWR",
+      "abbreviation": "QW1",
       "name": "QWERTY for PC",
       "description": "QWERTY is the mother of all layouts. This is the PC version.",
       "layers": [
@@ -6670,7 +6670,7 @@
                 null,
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QWR"
+                  "keymapAbbreviation": "QW1"
                 },
                 {
                   "keyActionType": "switchKeymap",
