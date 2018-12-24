@@ -21,7 +21,7 @@
   "keymaps": [
     {
       "isDefault": false,
-      "abbreviation": "COM",
+      "abbreviation": "QW6",
       "name": "Colemak for Mac",
       "description": "Colemak is based on QWERTY, but it places the most frequent letters under the strongest fingers. This is the Mac version.",
       "layers": [
@@ -761,19 +761,19 @@
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "DVO"
+                  "keymapAbbreviation": "QW2"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "COL"
+                  "keymapAbbreviation": "QW3"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QWM"
+                  "keymapAbbreviation": "QW4"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "DVM"
+                  "keymapAbbreviation": "QW5"
                 },
                 null,
                 null,
@@ -929,7 +929,7 @@
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "DVO"
+                  "keymapAbbreviation": "QW2"
                 },
                 null,
                 null,
@@ -1006,7 +1006,7 @@
     },
     {
       "isDefault": false,
-      "abbreviation": "COL",
+      "abbreviation": "QW3",
       "name": "Colemak for PC",
       "description": "Colemak is based on QWERTY, but it places the most frequent letters under the strongest fingers. This is the PC version.\n",
       "layers": [
@@ -1755,20 +1755,20 @@
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "DVO"
+                  "keymapAbbreviation": "QW2"
                 },
                 null,
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QWM"
+                  "keymapAbbreviation": "QW4"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "DVM"
+                  "keymapAbbreviation": "QW5"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "COM"
+                  "keymapAbbreviation": "QW6"
                 },
                 null,
                 null,
@@ -1923,7 +1923,7 @@
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "DVO"
+                  "keymapAbbreviation": "QW2"
                 },
                 null,
                 null,
@@ -2000,7 +2000,7 @@
     },
     {
       "isDefault": false,
-      "abbreviation": "DVM",
+      "abbreviation": "QW5",
       "name": "Dvorak for Mac",
       "description": "The Dvorak keyboard layout was designed with the goal of maximizing typing efficiency. This is the Mac version.",
       "layers": [
@@ -2740,20 +2740,20 @@
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "DVO"
+                  "keymapAbbreviation": "QW2"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "COL"
+                  "keymapAbbreviation": "QW3"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QWM"
+                  "keymapAbbreviation": "QW4"
                 },
                 null,
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "COM"
+                  "keymapAbbreviation": "QW6"
                 },
                 null,
                 null,
@@ -2838,7 +2838,7 @@
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "COL"
+                  "keymapAbbreviation": "QW3"
                 },
                 null,
                 {
@@ -2982,7 +2982,7 @@
     },
     {
       "isDefault": false,
-      "abbreviation": "DVO",
+      "abbreviation": "QW2",
       "name": "Dvorak for PC",
       "description": "The Dvorak keyboard layout was designed with the goal of maximizing typing efficiency. This is the PC version.",
       "layers": [
@@ -3732,19 +3732,19 @@
                 null,
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "COL"
+                  "keymapAbbreviation": "QW3"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QWM"
+                  "keymapAbbreviation": "QW4"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "DVM"
+                  "keymapAbbreviation": "QW5"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "COM"
+                  "keymapAbbreviation": "QW6"
                 },
                 null,
                 null,
@@ -3829,7 +3829,7 @@
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "COL"
+                  "keymapAbbreviation": "QW3"
                 },
                 null,
                 {
@@ -3973,7 +3973,7 @@
     },
     {
       "isDefault": false,
-      "abbreviation": "QWM",
+      "abbreviation": "QW4",
       "name": "QWERTY for Mac",
       "description": "QWERTY is the mother of all layouts. This is the Mac version.",
       "layers": [
@@ -4713,20 +4713,20 @@
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "DVO"
+                  "keymapAbbreviation": "QW2"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "COL"
+                  "keymapAbbreviation": "QW3"
                 },
                 null,
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "DVM"
+                  "keymapAbbreviation": "QW5"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "COM"
+                  "keymapAbbreviation": "QW6"
                 },
                 null,
                 null,
@@ -5698,23 +5698,23 @@
                 null,
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "DVO"
+                  "keymapAbbreviation": "QW2"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "COL"
+                  "keymapAbbreviation": "QW3"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QWM"
+                  "keymapAbbreviation": "QW4"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "DVM"
+                  "keymapAbbreviation": "QW5"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "COM"
+                  "keymapAbbreviation": "QW6"
                 },
                 null,
                 null,
@@ -6674,23 +6674,23 @@
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "DVO"
+                  "keymapAbbreviation": "QW2"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "COL"
+                  "keymapAbbreviation": "QW3"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QWM"
+                  "keymapAbbreviation": "QW4"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "DVM"
+                  "keymapAbbreviation": "QW5"
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "COM"
+                  "keymapAbbreviation": "QW6"
                 },
                 null,
                 null,
