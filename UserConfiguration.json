@@ -21,9 +21,9 @@
   "keymaps": [
     {
       "isDefault": false,
-      "abbreviation": "QW6",
-      "name": "QWERTY 6",
-      "description": "Colemak is based on QWERTY, but it places the most frequent letters under the strongest fingers. This is the Mac version.",
+      "abbreviation": "VIM",
+      "name": "VIM 6",
+      "description": "Copied from QWR.",
       "layers": [
         {
           "modules": [
@@ -68,22 +68,22 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 15
-                },
-                {
-                  "keyActionType": "keystroke",
-                  "type": "basic",
                   "scancode": 24
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 28
+                  "scancode": 12
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 51
+                  "scancode": 18
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 19
                 },
                 {
                   "keyActionType": "keystroke",
@@ -103,27 +103,27 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
+                  "scancode": 28
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
                   "scancode": 13
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 17
+                  "scancode": 14
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 8
+                  "scancode": 15
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 12
-                },
-                {
-                  "keyActionType": "keystroke",
-                  "type": "basic",
-                  "scancode": 18
+                  "scancode": 51
                 },
                 {
                   "keyActionType": "keystroke",
@@ -143,7 +143,7 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 14
+                  "scancode": 17
                 },
                 {
                   "keyActionType": "keystroke",
@@ -189,12 +189,12 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 128
+                  "modifierMask": 64
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 64
+                  "modifierMask": 128
                 },
                 {
                   "keyActionType": "keystroke",
@@ -259,18 +259,18 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 9
+                  "scancode": 8
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 19
+                  "scancode": 21
                 },
                 null,
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 10
+                  "scancode": 23
                 },
                 {
                   "keyActionType": "switchLayer",
@@ -285,23 +285,23 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 21
-                },
-                {
-                  "keyActionType": "keystroke",
-                  "type": "basic",
                   "scancode": 22
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 23
+                  "scancode": 7
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 9
                 },
                 null,
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 7
+                  "scancode": 10
                 },
                 {
                   "keyActionType": "keystroke",
@@ -346,12 +346,12 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 4
+                  "modifierMask": 8
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 8
+                  "modifierMask": 4
                 },
                 {
                   "keyActionType": "switchLayer",
@@ -513,12 +513,12 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 128
+                  "modifierMask": 64
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 64
+                  "modifierMask": 128
                 },
                 {
                   "keyActionType": "keystroke",
@@ -574,20 +574,20 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 80,
-                  "modifierMask": 12
+                  "scancode": 75,
+                  "modifierMask": 1
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
                   "scancode": 23,
-                  "modifierMask": 8
+                  "modifierMask": 1
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 79,
-                  "modifierMask": 12
+                  "scancode": 78,
+                  "modifierMask": 1
                 },
                 null,
                 null,
@@ -601,19 +601,19 @@
                   "keyActionType": "keystroke",
                   "type": "basic",
                   "scancode": 80,
-                  "modifierMask": 1
+                  "modifierMask": 5
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
                   "scancode": 43,
-                  "modifierMask": 8
+                  "modifierMask": 4
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
                   "scancode": 79,
-                  "modifierMask": 1
+                  "modifierMask": 5
                 },
                 null,
                 null,
@@ -624,14 +624,24 @@
                 },
                 null,
                 null,
-                null,
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 75,
+                  "modifierMask": 3
+                },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
                   "scancode": 26,
-                  "modifierMask": 8
+                  "modifierMask": 1
                 },
-                null,
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 78,
+                  "modifierMask": 3
+                },
                 null,
                 {
                   "keyActionType": "keystroke",
@@ -641,12 +651,12 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 4
+                  "modifierMask": 8
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 8
+                  "modifierMask": 4
                 },
                 null,
                 null,
@@ -671,7 +681,10 @@
                 null,
                 null,
                 null,
-                null,
+                {
+                  "keyActionType": "switchKeymap",
+                  "keymapAbbreviation": "TES"
+                },
                 {
                   "keyActionType": "keystroke",
                   "type": "media",
@@ -688,9 +701,8 @@
                 null,
                 {
                   "keyActionType": "keystroke",
-                  "type": "media",
-                  "scancode": 184,
-                  "modifierMask": 12
+                  "type": "system",
+                  "scancode": 130
                 },
                 null,
                 {
@@ -737,12 +749,12 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 128
+                  "modifierMask": 64
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 64
+                  "modifierMask": 128
                 },
                 {
                   "keyActionType": "keystroke",
@@ -765,6 +777,10 @@
                 },
                 {
                   "keyActionType": "switchKeymap",
+                  "keymapAbbreviation": "QW2"
+                },
+                {
+                  "keyActionType": "switchKeymap",
                   "keymapAbbreviation": "QW3"
                 },
                 {
@@ -775,7 +791,10 @@
                   "keyActionType": "switchKeymap",
                   "keymapAbbreviation": "QW5"
                 },
-                null,
+                {
+                  "keyActionType": "switchKeymap",
+                  "keymapAbbreviation": "VIM"
+                },
                 null,
                 null,
                 null,
@@ -809,12 +828,12 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 4
+                  "modifierMask": 8
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 8
+                  "modifierMask": 4
                 },
                 {
                   "keyActionType": "switchLayer",
@@ -839,10 +858,7 @@
                 null,
                 null,
                 null,
-                {
-                  "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "TES"
-                },
+                null,
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "scrollLeft"
@@ -861,7 +877,7 @@
                 null,
                 {
                   "keyActionType": "mouse",
-                  "mouseAction": "scrollDown"
+                  "mouseAction": "scrollUp"
                 },
                 {
                   "keyActionType": "mouse",
@@ -880,7 +896,7 @@
                 null,
                 {
                   "keyActionType": "mouse",
-                  "mouseAction": "scrollUp"
+                  "mouseAction": "scrollDown"
                 },
                 null,
                 null,
@@ -905,12 +921,12 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 128
+                  "modifierMask": 64
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 64
+                  "modifierMask": 128
                 },
                 {
                   "keyActionType": "keystroke",
@@ -922,7 +938,6 @@
             {
               "id": 1,
               "keyActions": [
-                null,
                 {
                   "keyActionType": "switchKeymap",
                   "keymapAbbreviation": "QW1"
@@ -931,9 +946,22 @@
                   "keyActionType": "switchKeymap",
                   "keymapAbbreviation": "QW2"
                 },
-                null,
-                null,
-                null,
+                {
+                  "keyActionType": "switchKeymap",
+                  "keymapAbbreviation": "QW3"
+                },
+                {
+                  "keyActionType": "switchKeymap",
+                  "keymapAbbreviation": "QW4"
+                },
+                {
+                  "keyActionType": "switchKeymap",
+                  "keymapAbbreviation": "QW5"
+                },
+                {
+                  "keyActionType": "switchKeymap",
+                  "keymapAbbreviation": "VIM"
+                },
                 null,
                 null,
                 null,
@@ -981,12 +1009,12 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 4
+                  "modifierMask": 8
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "modifierMask": 8
+                  "modifierMask": 4
                 },
                 null,
                 {
@@ -1768,7 +1796,7 @@
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QW6"
+                  "keymapAbbreviation": "VIM"
                 },
                 null,
                 null,
@@ -2750,10 +2778,13 @@
                   "keyActionType": "switchKeymap",
                   "keymapAbbreviation": "QW4"
                 },
-                null,
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QW6"
+                  "keymapAbbreviation": "QW4"
+                },
+                {
+                  "keyActionType": "switchKeymap",
+                  "keymapAbbreviation": "VIM"
                 },
                 null,
                 null,
@@ -3744,7 +3775,7 @@
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QW6"
+                  "keymapAbbreviation": "VIM"
                 },
                 null,
                 null,
@@ -4726,7 +4757,7 @@
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QW6"
+                  "keymapAbbreviation": "VIM"
                 },
                 null,
                 null,
@@ -5714,7 +5745,7 @@
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QW6"
+                  "keymapAbbreviation": "VIM"
                 },
                 null,
                 null,
@@ -6690,7 +6721,7 @@
                 },
                 {
                   "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QW6"
+                  "keymapAbbreviation": "VIM"
                 },
                 null,
                 null,
