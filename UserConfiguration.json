@@ -4,8 +4,8 @@
   "userConfigPatchVersion": 0,
   "deviceName": "My UHK",
   "doubleTapSwitchLayerTimeout": 250,
-  "iconsAndLayerTextsBrightness": 32,
-  "alphanumericSegmentsBrightness": 31,
+  "iconsAndLayerTextsBrightness": 63,
+  "alphanumericSegmentsBrightness": 48,
   "keyBacklightBrightness": 255,
   "mouseMoveInitialSpeed": 4,
   "mouseMoveAcceleration": 68,
@@ -1262,9 +1262,9 @@
                   "scancode": 23
                 },
                 {
-                  "keyActionType": "keystroke",
-                  "type": "basic",
-                  "scancode": 86
+                  "keyActionType": "switchLayer",
+                  "layer": "mouse",
+                  "switchLayerMode": "holdAndDoubleTapToggle"
                 },
                 {
                   "keyActionType": "keystroke",
@@ -1906,7 +1906,11 @@
                 null,
                 null,
                 null,
-                null,
+                {
+                  "keyActionType": "switchLayer",
+                  "layer": "mouse",
+                  "switchLayerMode": "holdAndDoubleTapToggle"
+                },
                 null,
                 {
                   "keyActionType": "mouse",
@@ -2218,9 +2222,9 @@
                   "scancode": 23
                 },
                 {
-                  "keyActionType": "keystroke",
-                  "type": "basic",
-                  "modifierMask": 1
+                  "keyActionType": "switchLayer",
+                  "layer": "mouse",
+                  "switchLayerMode": "holdAndDoubleTapToggle"
                 },
                 {
                   "keyActionType": "keystroke",
@@ -2284,9 +2288,9 @@
                   "scancode": 5
                 },
                 {
-                  "keyActionType": "switchLayer",
-                  "layer": "mouse",
-                  "switchLayerMode": "holdAndDoubleTapToggle"
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "modifierMask": 1
                 },
                 {
                   "keyActionType": "keystroke",
@@ -2725,10 +2729,7 @@
                 null,
                 null,
                 null,
-                {
-                  "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QW1"
-                },
+                null,
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
@@ -2759,7 +2760,6 @@
                 null,
                 null,
                 null,
-                null,
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
@@ -2769,6 +2769,11 @@
                   "keyActionType": "keystroke",
                   "type": "basic",
                   "modifierMask": 8
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "modifierMask": 4
                 },
                 {
                   "keyActionType": "switchLayer",
@@ -2894,7 +2899,11 @@
                 null,
                 null,
                 null,
-                null,
+                {
+                  "keyActionType": "switchLayer",
+                  "layer": "mouse",
+                  "switchLayerMode": "holdAndDoubleTapToggle"
+                },
                 null,
                 {
                   "keyActionType": "mouse",
@@ -2922,9 +2931,9 @@
                 null,
                 null,
                 {
-                  "keyActionType": "switchLayer",
-                  "layer": "mouse",
-                  "switchLayerMode": "holdAndDoubleTapToggle"
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "modifierMask": 1
                 },
                 {
                   "keyActionType": "keystroke",
